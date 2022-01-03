@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/culinary-website/static/css/main.ed7344b6.css",
+    "main.js": "/culinary-website/static/js/main.d159e979.js",
+    "index.html": "/culinary-website/index.html",
+    "main.ed7344b6.css.map": "/culinary-website/static/css/main.ed7344b6.css.map",
+    "main.d159e979.js.map": "/culinary-website/static/js/main.d159e979.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7344b6.css",
+    "static/js/main.d159e979.js"
+  ]
+}
