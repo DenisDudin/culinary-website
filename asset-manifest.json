@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/culinary-website/static/css/main.ed7344b6.css",
-    "main.js": "/culinary-website/static/js/main.d159e979.js",
+    "main.css": "/culinary-website/static/css/main.3c9598b0.css",
+    "main.js": "/culinary-website/static/js/main.7a66e8df.js",
     "index.html": "/culinary-website/index.html",
-    "main.ed7344b6.css.map": "/culinary-website/static/css/main.ed7344b6.css.map",
-    "main.d159e979.js.map": "/culinary-website/static/js/main.d159e979.js.map"
+    "main.3c9598b0.css.map": "/culinary-website/static/css/main.3c9598b0.css.map",
+    "main.7a66e8df.js.map": "/culinary-website/static/js/main.7a66e8df.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed7344b6.css",
-    "static/js/main.d159e979.js"
+    "static/css/main.3c9598b0.css",
+    "static/js/main.7a66e8df.js"
   ]
 }
